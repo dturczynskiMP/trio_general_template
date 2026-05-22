@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Contents Version="1">
+  <Content Name="tool_ControllerTreeControl">
+    <Tool IsPeriodicUpdateEnabled="true" />
+  </Content>
+  <Content Name="Document_Program__00_GLOBAL_VARIABLES" />
+  <Content Name="Document_Program__01_MAIN" />
+  <Content Name="Document_Program_SFL" />
+  <Content Name="Document_Program_UFL" />
+  <Content Name="Document_Program_LICENSE" />
+  <Content Name="Document_MC_CONFIG_MC_CONFIG" />
+  <Content Name="Document_Program_MANUAL_MODE" />
+</Contents>

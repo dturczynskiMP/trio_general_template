@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MotionPerfectLayout>
+  <Contents>
+    <Content Name="document_96e9a90fe369424c9acb7acddc717c5d">
+      <Program Name="_00_GLOBAL_VARIABLES" Process="-1" />
+    </Content>
+    <Content Name="document_e09b288e7d2b467e938f0e2eebedcb2e">
+      <Program Name="_01_MAIN" Process="-1" />
+    </Content>
+    <Content Name="document_7e3ae6c98cd24a23b59c06b2b3e967e0">
+      <Program Name="SFL" Process="-1" />
+    </Content>
+    <Content Name="document_9a6b3c5e24354ef08bb7954698189960">
+      <Program Name="UFL" Process="-1" />
+    </Content>
+    <Content Name="document_07c9f1382f814d84b017f8b1c44a52e6">
+      <Program Name="LICENSE" Process="-1" />
+    </Content>
+    <Content Name="document_1a13e08b829d4d958045dc8bc5bd06b2">
+      <MC_CONFIG>
+        <ActivePage Title="(All)" />
+      </MC_CONFIG>
+    </Content>
+    <Content Name="document_20fec355f7b04e319e41f167ddd19fdf">
+      <Program Name="MANUAL_MODE" Process="-1" />
+    </Content>
+  </Contents>
+  <LayoutRoot>
+    <RootPanel Orientation="Horizontal">
+      <LayoutAnchorablePaneGroup Orientation="Vertical" DockWidth="269.6">
+        <LayoutAnchorablePane Id="795ac77c-c061-47e0-9658-e55591426ef2" DockWidth="269.6" DockHeight="1.24590163934426*" FloatingWidth="300" FloatingHeight="150" FloatingLeft="NaN" FloatingTop="NaN">
+          <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Controller" IsSelected="True" ContentId="tool_ControllerTreeControl" LastActivationTimeStamp="05/22/2026 13:58:09" />
+        </LayoutAnchorablePane>
+        <LayoutAnchorablePane Id="842b3749-8a73-4614-a3ec-526db9714724" DockHeight="0.754098360655738*" FloatingWidth="220" FloatingHeight="200" FloatingLeft="59.2" FloatingTop="470.4" />
+      </LayoutAnchorablePaneGroup>
+      <LayoutPanel Orientation="Vertical" DockWidth="2.2090170941897*">
+        <LayoutDocumentPaneGroup Orientation="Horizontal" DockHeight="1.31875*">
+          <LayoutDocumentPane Id="be6326b3-fea5-420e-8d5b-2eef31690ec6">
+            <LayoutDocument Title="_00_GLOBAL_VARIABLES" IsSelected="True" IsLastFocusedDocument="True" ContentId="document_96e9a90fe369424c9acb7acddc717c5d" LastActivationTimeStamp="05/22/2026 19:03:00" />
+            <LayoutDocument Title="_01_MAIN" ContentId="document_e09b288e7d2b467e938f0e2eebedcb2e" LastActivationTimeStamp="05/22/2026 13:58:02" />
+            <LayoutDocument Title="SFL" ContentId="document_7e3ae6c98cd24a23b59c06b2b3e967e0" LastActivationTimeStamp="05/22/2026 13:58:06" />
+            <LayoutDocument Title="UFL" ContentId="document_9a6b3c5e24354ef08bb7954698189960" LastActivationTimeStamp="05/22/2026 09:17:06" />
+            <LayoutDocument Title="LICENSE" ContentId="document_07c9f1382f814d84b017f8b1c44a52e6" LastActivationTimeStamp="05/22/2026 09:13:29" />
+            <LayoutDocument Title="MC_CONFIG" ContentId="document_1a13e08b829d4d958045dc8bc5bd06b2" LastActivationTimeStamp="05/20/2026 15:18:15" />
+            <LayoutDocument Title="MANUAL_MODE" ContentId="document_20fec355f7b04e319e41f167ddd19fdf" LastActivationTimeStamp="05/20/2026 15:15:07" />
+          </LayoutDocumentPane>
+        </LayoutDocumentPaneGroup>
+        <LayoutAnchorablePaneGroup Orientation="Horizontal" DockHeight="177.6">
+          <LayoutAnchorablePane Id="afeeb725-0d8f-4a29-bb76-5353b23cf34b" DockHeight="177.6" />
+        </LayoutAnchorablePaneGroup>
+      </LayoutPanel>
+      <LayoutAnchorablePaneGroup Orientation="Vertical" DockWidth="330.4">
+        <LayoutAnchorablePaneGroup Orientation="Horizontal" DockWidth="330.4">
+          <LayoutAnchorablePane DockHeight="300" FloatingWidth="768" FloatingHeight="816" FloatingLeft="768">
+            <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Compile/Check Results" IsSelected="True" ContentId="tool_CompileCheckControl" FloatingLeft="768" FloatingWidth="768" FloatingHeight="816" LastActivationTimeStamp="05/22/2026 12:46:10" />
+          </LayoutAnchorablePane>
+        </LayoutAnchorablePaneGroup>
+        <LayoutAnchorablePaneGroup Orientation="Horizontal">
+          <LayoutAnchorablePane>
+            <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Channel #0" IsSelected="True" ContentId="tool_TerminalControl_0" LastActivationTimeStamp="05/22/2026 12:46:10" />
+          </LayoutAnchorablePane>
+        </LayoutAnchorablePaneGroup>
+        <LayoutAnchorablePane>
+          <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Channel #5" IsSelected="True" ContentId="tool_TerminalControl_5" LastActivationTimeStamp="05/07/2026 16:03:17" />
+        </LayoutAnchorablePane>
+      </LayoutAnchorablePaneGroup>
+    </RootPanel>
+    <TopSide />
+    <RightSide />
+    <LeftSide />
+    <BottomSide />
+    <FloatingWindows>
+      <LayoutAnchorableFloatingWindow>
+        <LayoutAnchorablePaneGroup Orientation="Horizontal" FloatingWidth="132.8" FloatingHeight="37.6" FloatingLeft="912.8" FloatingTop="226.4">
+          <LayoutAnchorablePane Id="b23ae066-0d27-44c2-9dea-a64efc9caa6f" FloatingWidth="132.8" FloatingHeight="37.6" FloatingLeft="912.8" FloatingTop="226.4" />
+        </LayoutAnchorablePaneGroup>
+      </LayoutAnchorableFloatingWindow>
+      <LayoutAnchorableFloatingWindow>
+        <LayoutAnchorablePaneGroup Orientation="Horizontal" FloatingWidth="132.8" FloatingHeight="150.4" FloatingLeft="560" FloatingTop="277.6">
+          <LayoutAnchorablePane Id="98022288-6f83-4dbd-99b6-d64ce81b10b8" FloatingWidth="132.8" FloatingHeight="150.4" FloatingLeft="560" FloatingTop="277.6" />
+        </LayoutAnchorablePaneGroup>
+      </LayoutAnchorableFloatingWindow>
+      <LayoutAnchorableFloatingWindow>
+        <LayoutAnchorablePaneGroup Orientation="Horizontal" FloatingWidth="460" FloatingHeight="560" FloatingLeft="153.6" FloatingTop="153.6">
+          <LayoutAnchorablePane Id="7ce01713-e44f-4c01-9e94-fd6bd3678b4e" FloatingWidth="460" FloatingHeight="560" FloatingLeft="153.6" FloatingTop="153.6" />
+        </LayoutAnchorablePaneGroup>
+      </LayoutAnchorableFloatingWindow>
+      <LayoutAnchorableFloatingWindow>
+        <LayoutAnchorablePaneGroup Orientation="Horizontal" FloatingWidth="132.8" FloatingHeight="150.4" FloatingLeft="153.6" FloatingTop="153.6">
+          <LayoutAnchorablePane Id="7569947b-0d76-4b1d-bcf4-30605c0d32b0" DockHeight="1.24590163934426*" FloatingWidth="132.8" FloatingHeight="150.4" FloatingLeft="153.6" FloatingTop="153.6" />
+        </LayoutAnchorablePaneGroup>
+      </LayoutAnchorableFloatingWindow>
+    </FloatingWindows>
+    <Hidden>
+      <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Intelligent drives" IsSelected="True" ContentId="tool_IntelligentDrivesControl" FloatingLeft="153.6" FloatingTop="153.6" FloatingWidth="460" FloatingHeight="560" LastActivationTimeStamp="05/22/2026 19:02:59" PreviousContainerId="7ce01713-e44f-4c01-9e94-fd6bd3678b4e" PreviousContainerIndex="0" />
+      <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Watch Variables 1" IsSelected="True" ContentId="tool_WatchVariablesControl" FloatingLeft="59.2" FloatingTop="470.4" FloatingWidth="220" FloatingHeight="200" LastActivationTimeStamp="05/22/2026 19:02:59" PreviousContainerId="842b3749-8a73-4614-a3ec-526db9714724" PreviousContainerIndex="1" />
+      <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Breakpoints" IsSelected="True" ContentId="tool_BreakpointsControl" FloatingLeft="153.6" FloatingTop="153.6" FloatingWidth="199.2" FloatingHeight="150.4" LastActivationTimeStamp="05/22/2026 19:02:59" PreviousContainerId="7569947b-0d76-4b1d-bcf4-30605c0d32b0" PreviousContainerIndex="0" />
+      <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="VR Viewer" IsSelected="True" ContentId="tool_VRViewerControl" FloatingLeft="120" FloatingTop="612.8" FloatingWidth="200" FloatingHeight="600" LastActivationTimeStamp="05/22/2026 19:02:59" PreviousContainerId="842b3749-8a73-4614-a3ec-526db9714724" PreviousContainerIndex="0" />
+      <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Output" IsSelected="True" ContentId="tool_OutputWindow" LastActivationTimeStamp="05/22/2026 19:02:59" PreviousContainerId="afeeb725-0d8f-4a29-bb76-5353b23cf34b" PreviousContainerIndex="0" />
+      <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Search results" IsSelected="True" ContentId="tool_FindInProjectResultsControl" FloatingLeft="560" FloatingTop="277.6" FloatingWidth="332.8" FloatingHeight="150.4" LastActivationTimeStamp="05/22/2026 19:02:59" PreviousContainerId="98022288-6f83-4dbd-99b6-d64ce81b10b8" PreviousContainerIndex="0" />
+      <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Find and Replace" IsSelected="True" ContentId="tool_FindReplaceWindow" FloatingLeft="912.8" FloatingTop="226.4" FloatingWidth="236.8" FloatingHeight="403.2" LastActivationTimeStamp="05/22/2026 19:02:59" PreviousContainerId="b23ae066-0d27-44c2-9dea-a64efc9caa6f" PreviousContainerIndex="0" />
+    </Hidden>
+  </LayoutRoot>
+</MotionPerfectLayout>

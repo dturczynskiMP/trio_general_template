@@ -1,0 +1,6 @@
+AUTO_ETHERCAT = OFF
+
+SERVO_PERIOD = 1000
+
+'variables declaration is required
+COMPILE_MODE = 1

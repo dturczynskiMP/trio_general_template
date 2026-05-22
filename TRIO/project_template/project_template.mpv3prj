@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Version="2" VersionMinor="1" ProductId="400" ProductName="MC400">
+    <Environment>
+        <Software SoftwareVersion="5.6.3.33472" />
+        <Controller ControllerVersion="2.0339005006" ControllerFPGAVersion="0">
+            <Modules />
+        </Controller>
+    </Environment>
+    <Groups>
+        <Group Name="Global Variables" Type="Group" GroupId="552E5D4B-8DE5-46F2-824A-6F55D014C0CC" />
+        <Group Name="Data Types" Type="Group" GroupId="05971EA8-378F-4318-9082-A36EE95AF15E">
+            <Items />
+        </Group>
+        <Group Name="API Symbols" Type="Group" GroupId="4AE5F1DC-653A-43BD-A3A0-20041CF7407D" />
+        <Group Name="" Type="RobotProject" GroupId="5888AAC2-AA0A-4259-B826-0E99306F148C">
+            <Items />
+        </Group>
+    </Groups>
+    <Items>
+        <Item Type="basic" Name="_00_GLOBAL_VARIABLES" Id="9f1a1490-d086-40fe-a1cf-6f27ea0b4f74" RunOnProcess="0" FileName="_00_GLOBAL_VARIABLES.BAS" Storage="internalStorage" Autorun="0" IsAutorun="True" />
+        <Item Type="basic" Name="_01_MAIN" Id="504f9a4f-77cb-4bb4-aaae-310e74b1e309" FileName="_01_MAIN.BAS" Storage="internalStorage" Autorun="0" IsAutorun="False" />
+        <Item Type="basic" Name="AUTO_MODE" Id="2dbf45c4-2015-4af2-bc57-0656fce29c77" FileName="AUTO_MODE.BAS" Storage="internalStorage" Autorun="0" IsAutorun="False" />
+        <Item Type="basic" Name="AXIS_TUNING" Id="fa6e04bf-c43a-4836-99e3-06e105bb7248" FileName="AXIS_TUNING.BAS" Storage="internalStorage" Autorun="0" IsAutorun="False" />
+        <Item Type="basic" Name="HOMING_MODE" Id="8d7e93a4-c82f-4486-9573-87814dd7c1d5" FileName="HOMING_MODE.BAS" Storage="internalStorage" Autorun="0" IsAutorun="False" />
+        <Item Type="basic" Name="JOG_MODE" Id="e2a1cfd9-d14f-4c7f-97fc-12feead9b708" FileName="JOG_MODE.BAS" Storage="internalStorage" Autorun="0" IsAutorun="False" />
+        <Item Type="textFile" Name="LICENSE" Id="d327477e-9fd6-49b7-87b5-0d1673ee9533" FileName="LICENSE.TXT" Storage="internalStorage" />
+        <Item Type="basic" Name="MANUAL_MODE" Id="1ba3f338-1c45-459d-ac14-16d9b24d3a80" FileName="MANUAL_MODE.BAS" Storage="internalStorage" Autorun="0" IsAutorun="False" />
+        <Item Type="mcConfig" Name="MC_CONFIG" Id="5ef48636-d065-4ac6-848f-3992a16ed08e" FileName="MC_CONFIG.MCC" Storage="internalStorage" />
+        <Item Type="basicLibrary" Name="SFL" Id="a67ce404-6716-48d8-89b8-522df3af033f" FileName="SFL.BAL" Storage="internalStorage" />
+        <Item Type="basicLibrary" Name="UFL" Id="c632ebcf-430a-4e0b-9547-18ecff4c383c" FileName="UFL.BAL" Storage="internalStorage" />
+    </Items>
+    <Bindings AutoBindingMode="0">
+        <VR StartIndex="1000" Count="1000" />
+        <Table StartIndex="1000" Count="1000" />
+    </Bindings>
+</Project>
